@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio_frontend/static/css/main.273003b3.css",
+    "main.js": "/portfolio_frontend/static/js/main.57fa2827.js",
+    "static/media/rukesh_edited.jpeg": "/portfolio_frontend/static/media/rukesh_edited.2ec78d3a9f8423d3f5b1.jpeg",
+    "static/media/axiosdata.PNG": "/portfolio_frontend/static/media/axiosdata.8fd5621c554a2968dfcf.PNG",
+    "static/media/wordCounter.PNG": "/portfolio_frontend/static/media/wordCounter.6a2a41c2976f3eed902e.PNG",
+    "static/media/calc.PNG": "/portfolio_frontend/static/media/calc.c0ed5bbd741d4241099f.PNG",
+    "static/media/agecalc.PNG": "/portfolio_frontend/static/media/agecalc.8e23fa453fc4751df124.PNG",
+    "static/media/colorPick.PNG": "/portfolio_frontend/static/media/colorPick.f7dc7c5e6480d9d94a39.PNG",
+    "index.html": "/portfolio_frontend/index.html",
+    "main.273003b3.css.map": "/portfolio_frontend/static/css/main.273003b3.css.map",
+    "main.57fa2827.js.map": "/portfolio_frontend/static/js/main.57fa2827.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.273003b3.css",
+    "static/js/main.57fa2827.js"
+  ]
+}
