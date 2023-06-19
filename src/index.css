@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(5, 4, 17);
+    color: white;
+}
+.btn{
+
+    width:1rem;
+    height:0.75rem;
+}
+::-webkit-scrollbar{
+    display: none;
+}

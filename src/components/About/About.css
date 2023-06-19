@@ -1,0 +1,16 @@
+aside img{
+    width: 300px;
+    height: 400px;
+    box-shadow: 0px 0px 50px rgb(20, 19, 71);
+}
+.contain{
+    font-size: large;
+}
+
+.about_section{
+    text-align: justify;
+    margin: 1vh 2vh;
+}
+.about_section aside{
+    text-align: center;
+}
